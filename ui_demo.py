@@ -32,3 +32,4 @@ st.link_button("Go to TANGEDCO Quick Pay", "https://www.tangedco.org")
 st.write("### 🚨 Report Outage")
 if st.button("Simulate Outage"):
     st.error("Power outage reported. ETA: 2 hours.")
+
